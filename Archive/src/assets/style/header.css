@@ -1,0 +1,13 @@
+.logo{
+    height: 40px;
+    width: 40px;
+}
+.navbar{
+    background-image: url(https://res.cloudinary.com/fahad-shahzad/image/upload/v1663946051/web3maker./landing-page-2/Screenshot_2022-09-23_at_8.08.15_PM_dbvrzu.png);
+}
+.links-header{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 600;
+    color: hsla(0,0%,100%,.85);
+}

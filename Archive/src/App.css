@@ -1,0 +1,12 @@
+/* app.css */
+
+.my-navbar {
+  /* Add any additional styling for the Navbar */
+}
+
+.start-btn {
+  border: 2px solid #1185cd;
+  color: #1185cd;
+  background-color: black;
+  /* Add any additional styling for the button */
+}

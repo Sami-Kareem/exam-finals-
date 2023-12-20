@@ -1,0 +1,15 @@
+.footer-landing{
+    background-image: url(https://res.cloudinary.com/fahad-shahzad/image/upload/v1663946050/web3maker./landing-page-2/Screenshot_2022-09-23_at_8.03.53_PM_ef0h4r.png);
+}
+.bg-dark {
+    background-color: #344767!important;
+}
+.text-center {
+    text-align: center!important;
+}
+.nav-link{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 600;
+    color: hsla(0,0%,100%,.85);
+}

@@ -1,0 +1,16 @@
+.myhero{
+    background-image: url(https://res.cloudinary.com/fahad-shahzad/image/upload/v1663946050/web3maker./landing-page-2/Screenshot_2022-09-23_at_7.59.05_PM_vt2wwq.png);
+    background-size: cover;
+    font-family: Inter,serif;
+    
+}
+.btn-demo {
+    background-color: #a1554c;
+    border-color: #fff;
+    border-radius: 50%;
+    padding: 20px;
+    width: 100px;
+}
+.welcome-2 {
+    font-size: 3rem;
+}
